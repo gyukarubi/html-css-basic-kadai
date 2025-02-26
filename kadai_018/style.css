@@ -67,6 +67,10 @@ body{
     position: relative;
 }
 
+#bottom-child01{
+    left: 0px;
+}
+
 #bottom-child02{
     left: 200px;
 }
