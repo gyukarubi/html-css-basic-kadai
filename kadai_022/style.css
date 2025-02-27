@@ -23,6 +23,7 @@ main{
 
 #parent{
     display: flex;
+    flex-direction:colum
     justify-content: space-between;
 }
 
@@ -66,7 +67,7 @@ a:link{
     color: rgb(255, 255, 255);
 }
 
-a:valid{
+a:visited{
     color: rgb(193, 234, 251);
 }
 
