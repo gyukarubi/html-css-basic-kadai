@@ -23,7 +23,7 @@ main{
 
 #parent{
     display: flex;
-    flex-direction:row
+    flex-direction:row;
     justify-content: space-between;
 }
 
@@ -88,7 +88,6 @@ a:hover{
     }
 
     #parent{
-        display: block;
         flex-direction: column;
     }
 }
